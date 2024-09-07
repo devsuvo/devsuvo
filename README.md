@@ -14,7 +14,7 @@ I’m Suvo Dev, Certified and Experienced Web & WordPress Developer | Wix & Shop
 
 I can develop any kind of Websites, like:
 ----------------------------------------------
-✔️ Agency/ Business Website
+- Agency/ Business Website
 ✔️ Online Store / eCommerce Website
 ✔️ Personal/Portfolio Website
 ✔️ Sales Funnel/Landing Page
