@@ -14,75 +14,74 @@ I’m Suvo Dev, Certified and Experienced Web & WordPress Developer | Wix & Shop
 
 I can develop any kind of Websites, like:
 ----------------------------------------------
-- Agency/ Business Website
-✔️ Online Store / eCommerce Website
-✔️ Personal/Portfolio Website
-✔️ Sales Funnel/Landing Page
-✔️ News/Blog/ Magazine Website
-✔️ Real Estate/Realtors
-✔️ Art Gallery / Photographer Website
-✔️ School/College/University(Education Website)
-✔️ Doctors/ Appointment Website
-✔️ Gaming/ Product / Landing
+ - Agency/ Business Website
+ - Online Store / eCommerce Website
+ - Personal/Portfolio Website
+ - Sales Funnel/Landing Page
+ - News/Blog/ Magazine Website
+ - Real Estate/Realtors
+ - Art Gallery / Photographer Website
+ - School/College/University(Education Website)
+ - Doctors/ Appointment Website
+ - Gaming/ Product / Landing
 
 
 
 Here are a few things I can do with WordPress:
 
-✔️ Fully Responsive Design
-✔️ On-Page SEO
-✔️ WordPress Website development
-✔️ Speed up your site
-✔️ Security Protection
-✔️ Ecommerce functionality
-✔️ Product upload
-✔️ Membership System
-✔️ Shopify Website Development
-✔️ Clone or Duplicate any website
-✔️ Fix any Web Site issues
-✔️ Multilingual Included
+ - Fully Responsive Design
+ - On-Page SEO
+ - WordPress Website development
+ - Speed up your site
+ - Security Protection
+ - Ecommerce functionality
+ - Product upload
+ -  Membership System
+ - Shopify Website Development
+ - Clone or Duplicate any website
+ - Fix any Web Site issues
+ - Multilingual Included
 
 
 Platforms | CMS | and languages I am proficient in:
 ---------------------------------------------------
-✔️ Wix / EditorX
-✔️ WordPress
-✔️ Shopify
-✔️ Webflow
-✔️ Click Funnels
-✔️ HTML5
-✔️ CSS
-✔️ Javascript
-✔️ PHP
-✔️ Mern Stack Web Developer
+ - Wix / EditorX
+ - WordPress
+ - Shopify
+ - Webflow
+ - Click Funnels
+ - HTML5
+ - CSS
+ - Javascript
+ - PHP
+ - Mern Stack Web Developer
 
 
 Would you like to know what I can do for you?
 ------------------------------------------------------
 
-✔️ Fully Responsive Design
-✔️ An Professional and Modern Wix website Design
-✔️ Fully Mobile/tab/Desktop Responsive Design
-✔️ Coming soon or Under Maintenance page
-✔️ Wix Redesign/ Revamp
-✔️ FIX Your WIX Website/ Issues
-✔️ Add products with inventory
-✔️ Redesign your WIX website to the next level
-✔️ Wix store & Membership
-✔️ WordPress Website development
-✔️ Shopify Website Development
-✔️ Sales or Click Funnels Landing Page Design
-✔️ Clone/Redesign or Duplicate any website
-✔️ Wix Website, Landing Page & Store Design
-✔️ SquareSpace Website, Landing Page & Store Design
-✔️ Fix any Web Site issues
-✔️ Multilingual Included
-✔️ On-Page SEO
-✔️ Email marketing & Mailchimp Expert
-✔️ Security/ Hacking Protection
-✔️ Ecommerce functionality
-✔️ Membership System
-✔️ Web Speed Optimization 90+
+ - Fully Responsive Design
+ - An Professional and Modern Wix website Design
+ - Fully Mobile/tab/Desktop Responsive Design
+ - Coming soon or Under Maintenance page
+ - Wix Redesign/ Revamp
+ - FIX Your WIX Website/ Issues
+ - Add products with inventory
+ - Redesign your WIX website to the next level
+ - Wix store & Membership
+ - WordPress Website development
+ - Shopify Website Development
+ - Sales or Click Funnels Landing Page Design
+ - Clone/Redesign or Duplicate any website
+ - Wix Website, Landing Page & Store Design
+ - SquareSpace Website, Landing Page & Store Design
+ - Fix any Web Site issues
+ - On-Page SEO
+ - Email marketing & Mailchimp Expert
+ - Security/ Hacking Protection
+ - Ecommerce functionality
+ - Membership System
+ - Web Speed Optimization 90+
 
 
 Please feel free to contact me if you would like to know more about my services. My previous works will be available for you to see, and I will be glad to assist you.
@@ -91,7 +90,7 @@ Please let me know if you have any questions. I look forward to helping you with
 Sincerely
 Suvo Dev
 
-Skills:  HTML / CSS / WordPress / Wix / Shopify / JS / Bootstrap 
+
 
 - 🔭 I’m currently working on FIverr 
 - 🌱 I’m currently learning Javascript 
