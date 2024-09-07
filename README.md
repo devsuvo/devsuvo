@@ -12,7 +12,7 @@ I’m Suvo Dev, Certified and Experienced Web & WordPress Developer | Wix & Shop
 ⭐ Agency Website: codersd.com
 ⭐ Portfolio Website: codersd.com/suvodev
 
-I can develop any kind of Websites, like:
+## I can develop any kind of Websites, like:
 ----------------------------------------------
  - Agency/ Business Website
  - Online Store / eCommerce Website
@@ -27,7 +27,7 @@ I can develop any kind of Websites, like:
 
 
 
-Here are a few things I can do with WordPress:
+## Here are a few things I can do with WordPress:
 
  - Fully Responsive Design
  - On-Page SEO
@@ -43,7 +43,7 @@ Here are a few things I can do with WordPress:
  - Multilingual Included
 
 
-Platforms | CMS | and languages I am proficient in:
+## Platforms | CMS | and languages I am proficient in:
 ---------------------------------------------------
  - Wix / EditorX
  - WordPress
@@ -57,7 +57,7 @@ Platforms | CMS | and languages I am proficient in:
  - Mern Stack Web Developer
 
 
-Would you like to know what I can do for you?
+## Would you like to know what I can do for you?
 ------------------------------------------------------
 
  - Fully Responsive Design
