@@ -1,10 +1,10 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFthGcAGBeXGg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1725697254875?e=2147483647&v=beta&t=C1evipwZi5DLk5GqxXsAAq92E3jmeIdH9gF6xYlioDA)
 
-### Hi there 👋, I'm Suvo Dev
+### Hi there 👋, 
+# I'm Suvo Dev
 #### Web Developer
 
 
-Hi there! Thanks for visiting my profile.
 
 I’m Suvo Dev, Certified and Experienced Web & WordPress Developer | Wix & Shopify Expert. I have completed 734 web projects for 489 clients on various marketplaces as a professional full stack Web developer and woocommerce and WordPress expert since 2019.
 
