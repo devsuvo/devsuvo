@@ -90,6 +90,12 @@ Please let me know if you have any questions. I look forward to helping you with
 Sincerely
 Suvo Dev
 
+## Sports / Game / Activities / Hobby:
+
+ 🏏 Cricket, ⚽ Football, 🏸 Badminton
+🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+✈️ Travelling
+
 
 
 - 🔭 I’m currently working on FIverr 
