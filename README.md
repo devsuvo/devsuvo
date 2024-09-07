@@ -105,7 +105,5 @@ Suvo Dev
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsuvo)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devsuvo&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/devsuvo/contributions?format=svg&private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devsuvo&show_icons=true&count_private=true)   
 
