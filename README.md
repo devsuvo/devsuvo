@@ -105,6 +105,10 @@ Suvo Dev
 - 📫 How to reach me: codersd.com 
 - ⚡ Fun fact: Playing Badminton 
 
+## Languages:
+🇧🇩 Bangla : Native
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+🇮🇳 Hindi : Intermediate
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devsuvo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suvodev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/suvo.fb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dev_suvo_in/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/hellosuvo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](codersd.com)  
 
@@ -113,4 +117,8 @@ Suvo Dev
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsuvo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devsuvo&show_icons=true&count_private=true)   
+
+### Thanks for going through my Portfolio. All rights reserved by Suvo dev @2024
+
+
 
