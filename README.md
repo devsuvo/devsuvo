@@ -92,9 +92,10 @@ Suvo Dev
 
 
 ## Recent Work:
-| CMS  | Client Name | | Location | | Website Link | | Marketplace |
+| Website Link  | Which type of website |
 | ------------- | ------------- |
-| WordPress  | Eitan | USA | https://codersd.com | Fiverr
+| https://codersd.com  | Digital Agency  |
+| https://fiverr.com  | Marketplace  |
 
 
 ## Sports / Game / Activities / Hobby:
