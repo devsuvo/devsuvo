@@ -10,7 +10,7 @@ I’m Suvo Dev, Certified and Experienced Web & WordPress Developer | Wix & Shop
 
 
 ⭐ Agency Website: codersd.com
-⭐ Portfolio Website: codersd.com/suvodev
+⭐ Portfolio Website: suvo.dev
 
 ## I can develop any kind of Websites, like:
 ----------------------------------------------
