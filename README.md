@@ -191,8 +191,6 @@ Agency Director · 🇬🇧 United Kingdom
 
 </div>
 
-> ℹ️ **Note:** পুরনো `github-readme-stats.vercel.app` সার্ভিসটা এখন অফিসিয়ালিই অস্থিতিশীল ঘোষিত (হাই ট্রাফিক ও রেট-লিমিটের কারণে প্রায়ই ডাউন থাকে) — তাই এখানে এর actively-maintained successor **GitHub Stats Extended** ব্যবহার করা হয়েছে, যা অনেক বেশি স্থিতিশীল। তারপরও যদি কখনো ইমেজ না আসে, GitHub পেজ রিফ্রেশ করলেই সাধারণত ঠিক হয়ে যায়। একদম চিরস্থায়ী সমাধানের জন্য চাইলে GitHub Actions দিয়ে static SVG নিজের রিপোতে জেনারেট করার সেটআপও করে দিতে পারি।
-
 ---
 
 ## 🐍 Contribution Graph
@@ -202,8 +200,6 @@ Agency Director · 🇬🇧 United Kingdom
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
 </div>
-
-> ℹ️ **Note:** এই স্নেক এনিমেশনটা কাজ করার জন্য আপনার রিপোতে একটা ছোট GitHub Action সেটআপ করতে হবে (`platane/snk`)। চাইলে সেটআপ স্টেপগুলো বলে দিতে পারি।
 
 ---
 
