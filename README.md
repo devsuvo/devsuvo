@@ -104,24 +104,77 @@ For the past **5+ years**, I've worked with clients across the US, Europe, and B
 
 ## 💼 Experience
 
-| Period | Role | Company |
-|---|---|---|
-| **Present** | Freelance Web Developer | Fiverr · Remote |
-| Dec 2021 – Jan 2023 | Front End Developer (WordPress) | Fiverr · Remote |
-| 2 Years | WordPress Developer | MetaTechDesk · New York (Remote) |
+<table align="center" width="100%">
+<tr>
+<td width="15%" align="center"><b>🟢 Present</b></td>
+<td width="35%">
+
+**Freelance Web Developer**
+Fiverr · Remote
+
+</td>
+<td width="50%">Running my own practice — web design, WordPress & full stack builds worldwide, with consistent five-star reviews.</td>
+</tr>
+<tr>
+<td align="center"><b>🔵 Dec 2021 – Jan 2023</b></td>
+<td>
+
+**Front End Developer (WordPress)**
+Fiverr · Remote
+
+</td>
+<td>Delivered high-quality custom WordPress themes and frontend solutions for clients around the globe.</td>
+</tr>
+<tr>
+<td align="center"><b>🟣 2 Years</b></td>
+<td>
+
+**WordPress Developer**
+MetaTechDesk · New York (Remote)
+
+</td>
+<td>Built and maintained client sites with Elementor — custom layouts, performance tuning, and ongoing site management.</td>
+</tr>
+</table>
 
 ---
 
 ## 💬 What Clients Say
 
-> ★★★★★ *"Delivered exactly what we needed — fast, clean, and better than the design we gave him."*
-> **— Michael R., Startup Founder (United States)**
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-> ★★★★★ *"Our WordPress site went from slow and dated to modern and lightning fast."*
-> **— Elena K., Marketing Lead (Germany)**
+⭐⭐⭐⭐⭐
 
-> ★★★★★ *"Professional, patient, and honest about timelines. Best freelancer we've worked with on Fiverr."*
-> **— Sarah T., Agency Director (United Kingdom)**
+*"Delivered exactly what we needed — fast, clean, and better than the design we gave him."*
+
+**Michael R.**
+Startup Founder · 🇺🇸 United States
+
+</td>
+<td width="33%" valign="top" align="center">
+
+⭐⭐⭐⭐⭐
+
+*"Our WordPress site went from slow and dated to modern and lightning fast."*
+
+**Elena K.**
+Marketing Lead · 🇩🇪 Germany
+
+</td>
+<td width="33%" valign="top" align="center">
+
+⭐⭐⭐⭐⭐
+
+*"Professional, patient, and honest about timelines. Best freelancer we've worked with on Fiverr."*
+
+**Sarah T.**
+Agency Director · 🇬🇧 United Kingdom
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -129,12 +182,16 @@ For the past **5+ years**, I've worked with clients across the US, Europe, and B
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devsuvo&show_icons=true&count_private=true&theme=default" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsuvo&layout=compact" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devsuvo&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsuvo&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devsuvo" alt="trophies"/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devsuvo&theme=radical&no-frame=true&row=1" alt="trophies" width="90%"/>
 
 </div>
+
+> ℹ️ **Note:** এই ইমেজগুলো লাইভ জেনারেট হয় `vercel.app`-এ হোস্ট করা ফ্রি সার্ভিস থেকে, যেটা মাঝে মাঝে বেশি লোডের কারণে সাময়িক ডাউন থাকে বা ইমেজ ব্রেক দেখায়। GitHub-এ পেজ রিফ্রেশ করলে সাধারণত ঠিক হয়ে যায়। যদি বারবার না আসে, তাহলে চাইলে নিজের একটা Vercel অ্যাকাউন্টে এই সার্ভিসটা self-host করে দেওয়া যায় — একদম স্থায়ী সমাধান হবে।
 
 ---
 
