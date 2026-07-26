@@ -182,8 +182,8 @@ Agency Director · 🇬🇧 United Kingdom
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devsuvo&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsuvo&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=devsuvo&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devsuvo&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%"/>
 
 <br/>
 
@@ -191,7 +191,7 @@ Agency Director · 🇬🇧 United Kingdom
 
 </div>
 
-> ℹ️ **Note:** এই ইমেজগুলো লাইভ জেনারেট হয় `vercel.app`-এ হোস্ট করা ফ্রি সার্ভিস থেকে, যেটা মাঝে মাঝে বেশি লোডের কারণে সাময়িক ডাউন থাকে বা ইমেজ ব্রেক দেখায়। GitHub-এ পেজ রিফ্রেশ করলে সাধারণত ঠিক হয়ে যায়। যদি বারবার না আসে, তাহলে চাইলে নিজের একটা Vercel অ্যাকাউন্টে এই সার্ভিসটা self-host করে দেওয়া যায় — একদম স্থায়ী সমাধান হবে।
+> ℹ️ **Note:** পুরনো `github-readme-stats.vercel.app` সার্ভিসটা এখন অফিসিয়ালিই অস্থিতিশীল ঘোষিত (হাই ট্রাফিক ও রেট-লিমিটের কারণে প্রায়ই ডাউন থাকে) — তাই এখানে এর actively-maintained successor **GitHub Stats Extended** ব্যবহার করা হয়েছে, যা অনেক বেশি স্থিতিশীল। তারপরও যদি কখনো ইমেজ না আসে, GitHub পেজ রিফ্রেশ করলেই সাধারণত ঠিক হয়ে যায়। একদম চিরস্থায়ী সমাধানের জন্য চাইলে GitHub Actions দিয়ে static SVG নিজের রিপোতে জেনারেট করার সেটআপও করে দিতে পারি।
 
 ---
 
