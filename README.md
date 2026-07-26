@@ -1,19 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:10B981&height=200&section=header&text=Suvo%20Dev&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%C2%B7%20WordPress%20%26%20Shopify%20Expert&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:10B981&height=260&section=header&text=Hi,%20I'm%20Suvo%20Dev%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Web%20Developer%20%C2%B7%20WordPress%2C%20Shopify%20%26%20Laravel%20Expert&descAlignY=52&descSize=18" width="100%"/>
 
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFthGcAGBeXGg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1725697254875?e=2147483647&v=beta&t=C1evipwZi5DLk5GqxXsAAq92E3jmeIdH9gF6xYlioDA" width="140" style="border-radius:50%" alt="Suvo Dev"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFthGcAGBeXGg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1725697254875?e=2147483647&v=beta&t=C1evipwZi5DLk5GqxXsAAq92E3jmeIdH9gF6xYlioDA" width="150" style="border-radius:50%;border:4px solid #2563EB;box-shadow:0 0 20px rgba(37,99,235,0.5);" alt="Suvo Dev"/>
+
+<br/><br/>
 
 <a href="https://github.com/devsuvo">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;WordPress+%7C+Shopify+%7C+Wix+Expert;734%2B+Projects+Delivered+Since+2019;Let's+Build+Something+Great+Together" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;WordPress+%7C+Shopify+%7C+Laravel+%7C+Wix;734%2B+Projects+Delivered+Since+2019;489%2B+Happy+Clients+Worldwide+%F0%9F%8C%8D;Let's+Build+Something+Great+Together+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-[![Agency](https://img.shields.io/badge/Agency-codersd.com-2563EB?style=for-the-badge)](https://codersd.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-suvo.dev-10B981?style=for-the-badge)](https://suvo.dev)
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=devsuvo&style=flat-square&color=blue" alt="profile views"/>
+[![Agency](https://img.shields.io/badge/🏢_Agency-codersd.com-2563EB?style=for-the-badge)](https://codersd.com)
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-suvo.dev-10B981?style=for-the-badge)](https://suvo.dev)
+[![Hire Me](https://img.shields.io/badge/📩_Hire_Me-Fiverr-1DBF73?style=for-the-badge)](https://fiverr.com)
+
+<br/>
+
+![Projects](https://img.shields.io/badge/Projects_Completed-734+-2563EB?style=flat-square)
+![Clients](https://img.shields.io/badge/Happy_Clients-489+-10B981?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-Since_2019-7C3AED?style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=devsuvo&style=flat-square&color=blue&label=Profile+Views" alt="profile views"/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ---
 
@@ -69,6 +81,7 @@ I specialize in building fast, secure, and fully responsive websites — from bu
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Stack**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
