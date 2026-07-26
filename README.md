@@ -116,16 +116,6 @@ Fiverr · Remote
 <td width="50%">Running my own practice — web design, WordPress & full stack builds worldwide, with consistent five-star reviews.</td>
 </tr>
 <tr>
-<td align="center"><b>🔵 Dec 2021 – Jan 2023</b></td>
-<td>
-
-**Front End Developer (WordPress)**
-Fiverr · Remote
-
-</td>
-<td>Delivered high-quality custom WordPress themes and frontend solutions for clients around the globe.</td>
-</tr>
-<tr>
 <td align="center"><b>🟠 Jan 2023 – Dec 2023</b></td>
 <td>
 
