@@ -126,6 +126,16 @@ Fiverr · Remote
 <td>Delivered high-quality custom WordPress themes and frontend solutions for clients around the globe.</td>
 </tr>
 <tr>
+<td align="center"><b>🟠 Jan 2023 – Dec 2023</b></td>
+<td>
+
+**Website Admin and Developer**
+GreatestDeals LLC · Playa Del Rey, CA
+
+</td>
+<td>Ave #420, Playa Del Rey, CA 90293 — managed and developed company websites, handling admin, updates, and ongoing site maintenance.</td>
+</tr>
+<tr>
 <td align="center"><b>🟣 2 Years</b></td>
 <td>
 
