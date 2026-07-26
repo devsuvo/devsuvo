@@ -91,11 +91,44 @@ I specialize in building fast, secure, and fully responsive websites — from bu
 
 ## 🌟 Featured Work
 
-| Project | Type | Link |
-|---|---|---|
-| Portfolio Website | Personal Portfolio | [suvo.dev](https://suvo.dev) |
-| Digital Agency | Agency Website | [codersd.com](https://codersd.com) |
-| Freelance Profile | Marketplace | [fiverr.com](https://fiverr.com) |
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 💼 Portfolio Website
+**Personal Portfolio**
+
+Showcasing my projects, skills & experience
+
+[![Visit](https://img.shields.io/badge/Visit_Site-suvo.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suvo.dev)
+
+</td>
+<td width="33%" align="center">
+
+### 🏢 Digital Agency
+**Agency Website**
+
+Full-service web development agency
+
+[![Visit](https://img.shields.io/badge/Visit_Site-codersd.com-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codersd.com)
+
+</td>
+<td width="33%" align="center">
+
+### 🛍️ Freelance Profile
+**Marketplace**
+
+734+ projects delivered for global clients
+
+[![Visit](https://img.shields.io/badge/Visit_Profile-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
